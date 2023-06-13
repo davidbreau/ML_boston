@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Projets/Boston/ML_boston/mlruns/0/457f5a6c73f74c40b6ae7b7db5e64fdf/artifacts
+end_time: 1686606521320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 457f5a6c73f74c40b6ae7b7db5e64fdf
+run_name: gradientboostingregressor_robustscaler
+run_uuid: 457f5a6c73f74c40b6ae7b7db5e64fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686606518446
+status: 3
+tags: []
+user_id: apprenant

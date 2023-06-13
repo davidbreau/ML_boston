@@ -1,0 +1,6 @@
+artifact_location: file:///home/apprenant/Projets/Boston/ML_boston/mlruns/500428809821700383
+creation_time: 1686578263082
+experiment_id: '500428809821700383'
+last_update_time: 1686578263082
+lifecycle_stage: active
+name: boston_model
