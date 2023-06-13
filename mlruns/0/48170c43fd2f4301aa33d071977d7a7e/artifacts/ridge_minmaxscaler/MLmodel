@@ -1,0 +1,19 @@
+artifact_path: ridge_minmaxscaler
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.4.1
+model_uuid: 3cb197addedb4b7ba288a994ef686b14
+run_id: 48170c43fd2f4301aa33d071977d7a7e
+utc_time_created: '2023-06-12 14:43:08.023061'

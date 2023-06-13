@@ -1,0 +1,19 @@
+artifact_path: linearregression_robustscaler
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.4.1
+model_uuid: ef3050d4e0e2481d87af22e83a6cbde0
+run_id: 5a27abaff7ef49ada4fa624679a1f812
+utc_time_created: '2023-06-12 14:01:23.440644'

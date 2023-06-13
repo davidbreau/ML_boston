@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Projets/Boston/ML_boston/mlruns/500428809821700383/1b95a887a9f34b219bd286e3fdfd5c95/artifacts
+end_time: 1686578265972
+entry_point_name: ''
+experiment_id: '500428809821700383'
+lifecycle_stage: active
+run_id: 1b95a887a9f34b219bd286e3fdfd5c95
+run_name: linearregression_robustscaler
+run_uuid: 1b95a887a9f34b219bd286e3fdfd5c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686578263319
+status: 4
+tags: []
+user_id: apprenant

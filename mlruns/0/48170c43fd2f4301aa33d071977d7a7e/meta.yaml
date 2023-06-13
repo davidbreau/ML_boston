@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Projets/Boston/ML_boston/mlruns/0/48170c43fd2f4301aa33d071977d7a7e/artifacts
+end_time: 1686580991395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48170c43fd2f4301aa33d071977d7a7e
+run_name: ridge_minmaxscaler
+run_uuid: 48170c43fd2f4301aa33d071977d7a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686580987994
+status: 3
+tags: []
+user_id: apprenant

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Projets/Boston/ML_boston/mlruns/0/2081945111b547d2af9023ca6e4e7d8c/artifacts
+end_time: 1686601408200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2081945111b547d2af9023ca6e4e7d8c
+run_name: lasso_minmaxscaler
+run_uuid: 2081945111b547d2af9023ca6e4e7d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686601406068
+status: 3
+tags: []
+user_id: apprenant
